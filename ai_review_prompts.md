@@ -5,7 +5,8 @@ Look for the following:
 1. Does the this follow established standards?  Include audit columns, triggers, data types, object names, identity/PK names.  
 1. Identify any gaps, inaccuracies or bugs.
 1. Provide direction to fix any issues uncovered.  
-1. Inlude a severity.  Is this a blocker that needs to be resolved, or is it less serious.
+1. Inlude a severity.  Is this a blocker that needs to be resolved, or is it less serious.  Order the issues by this severity level.  
+
 
 
 Follow this pattern for each issue/bug/concern:  
